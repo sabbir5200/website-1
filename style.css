@@ -1,0 +1,17 @@
+.logo{
+    width: 150px;
+    height: 100px;
+}
+.cata{
+    width: 100px;
+    align-content: space-around;
+}
+.txt{
+    color: white;
+}
+.custom-card{
+    border: 0;
+}
+.footer{
+    border: 0;
+}
